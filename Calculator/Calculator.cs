@@ -34,7 +34,6 @@
             if(num == 0)
             {
                 Console.WriteLine("\nDivision by 0 not possible!");
-                Result = -1;
                 return;
             }
             else
